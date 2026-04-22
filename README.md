@@ -89,6 +89,14 @@ These examples work with any OpenAI-compatible API.
 
 For testing, one possible provider is [https://tken.shop](https://tken.shop) - an OpenAI-compatible gateway with free access options.
 
+## Need Multi-Account Failover?
+
+If you move beyond simple examples and need account rotation, `429` retry, proxy support, or model-aware routing, see:
+
+- [free-openai-starter](https://github.com/vivian254338489/free-openai-starter)
+
+That repository is the more production-oriented gateway layer in this repo family.
+
 ## Documentation
 
 - [Setup Guide](docs/setup.md) - Environment configuration
